@@ -35,5 +35,6 @@ BERT is a transformers model pretrained on a large corpus of English data in a s
 
 **Result**
 
-![image](https://github.com/bittu5555/Question-Answering-RAG-system/assets/106305917/f3978ba6-4d6f-4702-98b0-c8c9e023324f)
+![image](https://github.com/user-attachments/assets/16c66926-6724-42ea-8de2-74e1253bcc1d)
+
 
